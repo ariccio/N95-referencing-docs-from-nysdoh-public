@@ -84,7 +84,7 @@ OFFICE OF MEDICAL AFFAIRS DIRECTIVE 2014-05A
 October 3, 2014
 EBOLA VIRUS DISEASE (EVD) ADVISORY (ADDENDUM)
 https://www.health.ny.gov/diseases/communicable/ebola/docs/ems/mad_2014-05_ebola_addendum.pdf
-    "Airborne transmission of the virus may occur during aerosolgenerating procedures."
+    "Airborne transmission of the virus may occur during aerosol generating procedures."
     "During cleaning of non-disposable equipment, members should wear gloves, surgical mask or N95 respirator, eye protection, shoe covers and gown."
 
 
@@ -186,7 +186,7 @@ November 28, 2018
 https://www.health.ny.gov/publications/2170/docs/2018-11_presentation_for_providers.pdf
     "Measles is spread via the airborne route"
     "Measles can live for up to 2 hours in the airspace where an infected person breathed, coughed or sneezed"
-    "Have patient wear a medical mask"
+    "Have patient wear a medical mask"  (Why for local SARS but not measles?)
     "Healthcare providers wear an N95 mask"
     "Airborne infection isolation room (negative pressure)"
     (?) "Alternate: Private room away from susceptible patients with door closed"
@@ -293,7 +293,7 @@ Meeting Minutes of the September 29, 2009 EMS for Children
 (was able to recover by running through google translate, must be rendering bug? saved as "New York State Emergency Medical Services for Children Advisory Committee December 8, 2009 Meeting Minutes.pdf")
 https://www.health.ny.gov/professionals/ems/emsc/advisory_council/meetings/2009-12-08/docs/minutes_4-1.pdf
 
-    "DR. VAN DER JAGT: I just have a question again relating to prevention and the E.M.S. provider. What are the recommendations for use of masks, and what is -- you know, what is the, you know, these E.M.S. providers are probably exposed a lot to this particular virus, or any flu virus, so are there recommendations that you have for them, and maybe Lee would like to talk about that a little bit, too. I don t know -- I just think it s something that needs to be addressed."
+    "DR. VAN DER JAGT: I just have a question again relating to prevention and the E.M.S. provider. What are the recommendations for use of masks, and what is -- you know, what is the, you know, these E.M.S. providers are probably exposed a lot to this particular virus, or any flu virus, so are there recommendations that you have for them, and maybe Lee would like to talk about that a little bit, too. I don't know -- I just think it's something that needs to be addressed."
     "MS. BURNS: Actually, the C.D.C. recommends N95s for patient care providers who are treating patients with flu-like symptoms. The Health Department has said that surgical masks are adequate. There s a -- there s a lot of -- of conversation at the local level. Some localities believe that they would just as soon err on the side of being conservative and use N95s. The N95s require fit testing."
     [...lots of blah about fit testing]
     "So, there is -- really the answer to your question is the C.D.C. guideline is N95s, state Health Department has said surgical masks. DR. VAN DER JAGT: And how well are they following those regulations? MS. BURNS: Thats a very good question. I -- I think -- honestly, they dont want to be -- they don t want to be exposed, and they don t want to -- certainly dont want to take it home to their family."
