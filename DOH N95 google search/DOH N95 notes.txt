@@ -1,0 +1,386 @@
+I'm doing some OSINT, and seeing some interesting things:
+"n95" site:health.ny.gov/
+
+
+"Influenza Information for Health Care Providers > N95 Interim Guidance: NYSDOH Position Statement"
+    "DOH has a number of concerns about CDC's interim guidance on N95 respirator use by healthcare workers during a pandemic, including the lack of a solid evidence base for the recommendations, the possible adverse impact that focusing on respiratory protection will detract from other, more important infection control measures, and the difficulties with stockpiling sufficient N95 respirators and fit testing all staff who would use them."
+    https://www.health.ny.gov/diseases/communicable/influenza/n95_interim_guidance.htm
+
+
+changing guidance for EMS:
+    Re: COVID-19 Response to Respiratory Emergencies (V1.0) 
+    UPDATED 03.19.20
+    No. 20-05
+    Date: March 19, 2020
+    POLICY STATEMENT
+    "PPE (gloves, gowns, N95 respirator, and eye protection) MUST be donned prior to any procedure with potential for aerosolization."
+    https://www.health.ny.gov/professionals/ems/pdf/20-03_response_to_respiratory_emergencies.pdf
+
+
+    Re: COVID-19 EMS Practitioner Guidance (V3.0)
+    No. 20 - 02
+    Date: February 14, 2020
+    POLICY STATEMENT Supersedes 20-02 2019-nCoV “Wuhan Coronavirus” (v2.0)
+    UPDATED 02.14.2020
+    https://www.health.ny.gov/professionals/ems/pdf/20-02.pdf
+    "4) EMS providers should institute Standard, Contact, and Airborne Precautions plus eye protection when treating a patient with suspected COVID-19. Recommended PPE includes:
+    [...]
+        c) NIOSH-approved, fit tested respiratory protection (N95 or higher-level respirator);
+            i) EMS agencies may usePAPRs with full hood and high efficiency particulate air (HEPA) filter for Airborne Precautions for employees that cannot safely fit test on N95 respirators due to facial hair, facial structure, etc"
+
+
+
+Bureau of EMS Home Page > SARS Advisory
+    https://www.health.ny.gov/professionals/ems/policy/04-01.htm
+    New York State Department of Health Bureau of Emergency Medical Services
+    POLICY STATEMENT Supplements/Updates: 03-11
+    No. 04-01
+    "SARS Re-emerges in the World without Local Transmission:"
+        "For Patients meeting the established SARS case definition, Temperature of >100.4° F (>38° C) and one or more clinical findings of respiratory illness (e.g., cough, shortness of breath, difficulty breathing, or hypoxia):"
+            "Utilize Airborne, Contact, and Standard Precautions, including a fit-tested N95 respirator, gloves, gown and approved eye protection (e.g. face shield or goggles)."
+
+    "SARS Re-emerges in the World with Local Transmission:"
+        "Utilize Airborne, Contact, and Standard Precautions, including a fit-tested N95 respirator, gloves, gown and approved eye protection (e.g. face shield or goggles) for all patients presenting with respiratory symptoms."
+
+Bureau of EMS Home Page > EMS Response Planning to a Suspected Biological/Infectious Disease Incident
+    https://www.health.ny.gov/professionals/ems/policy/03-02.htm
+    Policy Statement #	03-02
+    Date	02/05/03
+    "Key Points"
+        "EMS personnel must use a fit-tested N95 or higher respirator."
+    "General Considerations"
+        "EMS personnel who may come into contact with a patient with fever and rash illness should utilize a fit-tested N95 respirator or higher level of respiratory protection and practice standard/universal, contact, and airborne precautions."
+        "Remember: Use of a fit-tested N95 respirator, with standard/universal, contact, airborne and droplet precautions, will protect providers from infectious disease that is naturally occurring or man-made."
+        "All EMS personnel must use a fit-tested N95 respirator, or higher as protection against airborne transmission. The equipment and fit testing is the responsibility of the EMS agency to provide to members/employees involved in a response."
+    "Review of Infection Control Precautions and PPE for the EMS Provider at Suspected Infectious Disease Incident"
+        "Airborne Precautions include a properly ventilated ambulance and appropriate respiratory protection such as the N95 respirator and placing a mask on the patient."
+
+
+NYS Bureau of Emergency Medical Services And Trauma Systems POLICY STATEMENT
+No. 20 - 03
+
+Date: February 14, 2020
+Re: COVID-19 County Emergency Managers, County EMS Coordinators, and PSAP Guidance (V1.0)
+    "The Department asks all EMS agencies to compare their existing inventories of PPE, such as face shields, gowns, gloves, masks, N95 respirators, against the expected rate of use of these items under a surge situation, to determine the quantities needed to be on hand. "
+
+
+Fire Department of the City of New York - Isolation Kit for Standard Universal Precautions
+https://www.health.ny.gov/diseases/communicable/ebola/docs/ems/donning-doffing_procedure.pdf
+    "Don an appropriate size N95 respirator mask ensuring a proper seal."
+
+
+New York State Department of Health Bureau of Emergency Medical Services
+IMPORTANT ADVISORY AND UPDATE 
+SUBJECT: Severe Acute Respiratory Syndrome (SARS) EMS Update to March 20th SARS Advisory
+UPDATED - April 18, 2003
+https://www.health.ny.gov/diseases/communicable/sars/sars_ems_advisory_04-18-2003.pdf
+    "BEMS Recommendation: Prehospital care providers are urged to practice body substance isolation (BSI) and PPE precautions which include, but may not be limited to, the use of N95 mask, gowns, gloves and eye protection for contact with a suspected SARS patient or their environment. "
+    "BEMS Recommendation: EMS personnel should respond with as few personnel as necessary for the call to limit possible infection and should wear a disposable gown, gloves and fit tested N95 mask prior to entering the home or call location of a suspected SARS patient. "
+    "BEMS Recommendation: EMS personnel should apply standard (e.g. hand hygiene), airborne (e.g. respiratory protective devices with a filter efficiency ofgreater than or equal to 95%, such as an N95 mask) and contact (e.g. gloves, gown, and eyewear) precautions when aerosol-generating procedures are being performed on patients who may have SARS. "
+    (why airborne for EMS but also mention AGPs?)
+
+FDNY CFR-D MANUAL, CHAPTER 6
+OFFICE OF MEDICAL AFFAIRS DIRECTIVE 2014-05A
+October 3, 2014
+EBOLA VIRUS DISEASE (EVD) ADVISORY (ADDENDUM)
+https://www.health.ny.gov/diseases/communicable/ebola/docs/ems/mad_2014-05_ebola_addendum.pdf
+    "Airborne transmission of the virus may occur during aerosolgenerating procedures."
+    "During cleaning of non-disposable equipment, members should wear gloves, surgical mask or N95 respirator, eye protection, shoe covers and gown."
+
+
+Public Health and Health Planning Council
+Special Codes, Regulations and Legislation Committee Meeting
+Agenda and Informational Announcements
+October 26, 2021
+10:15 AM
+https://www.health.ny.gov/facilities/public_health_and_health_planning_council/meetings/2021-10-26/docs/special_codes_commitee_agenda.pdf
+    (more about stockpiles)
+
+
+July 3, 2020
+Coronavirus (COVID-19) Update
+(veterans home)
+https://apps.health.ny.gov/nysvets/web/sites/default/files/editor/Coronavirus%20-%20Resident%20and%20Family%20Ltr%20re%20Update%202020-07-3%20(Oxford).pdf
+    "Due to the continued potential for exposure to the virus, all neighborhoods are on some level of quarantine. Employees continue to wear a face shield or goggles with a surgical mask at all times while on the neighborhoods. Use of other Personal Protective Equipment (PPE), such as N95 respirators and/or gowns may also be required as directed by the Infection Prevention and Control Committee."
+
+
+NYS SARS Preparedness Planning 2. Clinical Guidance
+https://www.health.ny.gov/diseases/communicable/sars/preparedness_guidance/pdf/sec_2_sars_clinical_guidance.pdf
+    "b. SARS Re-emerges in the World without Local Transmission:"
+        [...]
+        "Perform high risk procedures on AIIR only with staff who have been fit-tested for an N95 respirator or higher protection, and with staff that have received enhanced infection control training on the prevention of transmission of SARS;"
+    [...]
+        ". If the numbers of suspect or probable SARS cases exceed the availability of AIIRs, a SARS unit may be designated: a. Provide enhanced infection control education to direct patient care staff and assure all staff are fit- tested for and utilize an N95 respirator;"
+        (also some bits about ventilation)
+    "c. SARS Re-emerges in the World with Local Transmission:"
+        "All personnel at patient evaluation areas should wear gloves, gowns, fit-tested N95 respirators, and face shields for evaluation of patients, visitors and staff. Hand Hygiene is to be performed between contacts."
+        "All personnel at visitor and employee evaluation areas are to wear fit-tested N95 respirators and to perform hand hygiene between contacts (rationale: minimal direct contact should occur at these check points)."
+    [...visitor guidance...]
+    "b. Re-emergence of SARS in the World, with local Transmission:"
+        (!) "Visitors who are asymptomatic and allowed to visit a suspect or probable SARS patient must have received education about contact and airborne precautions, Standard Respiratory Precautions and hand hygiene, as well as their responsibility for adherence to them by a facility designate responsible for education."
+        (!) "Visitors must wear personal protection equipment (i.e. gloves, gown, eye protection and N95 respirator - instructions on donning the N95 respirator will be provided, but fit testing will not be required for visitors). The facility staff will need to assist any visitors with correct removal of personal protection equipment."
+
+
+Bureau of Emergency Medical Services New York State Department of Health
+Swine Influenza A (H1N1) Advisory 
+April 28, 2009 
+https://www.health.ny.gov/professionals/ems/communicable_disease/h1n1/docs/h1n1_advisory_ems_2009-04-28.pdf
+    "Continue to use Universal precautions, (Standard, Droplet and Contact) for all patient care activities. " (eh? no airborne?)
+    "Additionally EMS personnel should wear N95 respirators (or if unavailable, surgical masks which are secured by tying) when treating a patient, and should don gloves and goggles/faceshield if providing direct patient care. "
+    "The caller’s responses to the above questions should be relayed to the EMS responders prior to their arrival on scene. It is recommended that EMS providers wear an N95 mask (or in the absence of one, a properly secured (tied) surgical mask) and gloves before entering the scene of this type of call. "
+
+Bureau of Emergency Medical Services New York State Department of Health
+SWINE-ORIGIN INFLUENZA A (H1N1) VIRUS (S-OIV) INFECTION ADVISORY UPDATE
+Date: May 8, 2009
+https://www.health.ny.gov/professionals/ems/communicable_disease/h1n1/docs/2009-05-08_update_swine_flu_ems.pdf
+    "Continue to use Universal precautions, (Standard, Droplet and Contact) for medical care of patients with confirmed or probable S-OIV, or febrile respiratory illness."
+    "EMS personnel should wear surgical masks, appropriately secured when treating a patient, and should don gloves and goggles/faceshield if providing direct patient care."
+    "The patient should be asked to wear a surgical mask if tolerated."
+    "For aerosol-generating procedures, such as suctioning, nebulizing treatment or intubation, EMS personnel should wear N95 respirators, gloves, and goggles/faceshield for the procedure"
+    (!) "Hand hygiene is absolutely essential and should be performed before and after patient care, and before donning and after removal of a respiratory protection facemask. "
+
+Recommendations for Follow-up of Respiratory Disease Outbreaks of Influenza and Influenza-like Illness in Health Care Facilities
+https://www.health.ny.gov/diseases/communicable/control/respiratory_disease_checklist.htm
+    "Confine ill patients/residents to their rooms and place them on Droplet Precautions for 7 days or until 24 hours after fever has resolved without the aid of anti-pyretic medication (e.g., ibuprofen, acetaminophen), whichever is longer."
+    "HCP should wear respiratory protection equivalent to an N95 or higher filtering facepiece respirator during aerosol-generating procedures. For more information on respirators and a definition of aerosol-generating procedures, visit the Centers for Disease Control and Prevention (CDC) website at: http://www.cdc.gov/flu/professionals/infectioncontrol/healthcaresettings.htm"
+
+
+
+Updated Guidance for Resumption of Non-Essential Elective Surgeries and NonUrgent Procedures in Hospitals, Ambulatory Surgery Centers, Office Based Surgery Practices and Diagnostic and Treatment Centers 
+    https://coronavirus.health.ny.gov/system/files/documents/2020/06/doh_covid19_electivesurgery_update_061420.pdf
+    "Providers have requested additional guidance for the type of PPE recommended when performing high risk (e.g., aerosolizing) procedures. In general, procedures performed on mucous membranes, including the respiratory tract, pose a higher risk of aerosol transmission. They should be performed with caution and healthcare staff should utilize appropriate respiratory protection such as N95 masks and face shields. Please refer to CMS Guidance: Re-opening Facilities to Provide Non-emergent NonCOVID-19 Healthcare: Phase 1, available at https://www.cms.gov/files/document/covid-flexibilityreopen-essential-non-covid-services.pdf."
+    In addition, as guidance for types of surgery procedures by site:
+        • Above the clavicle, high-risk procedures (e.g., intubation, chest tubes, tracheostomy, EGD, use of high flow O2 delivery and open suction of airways), use of full PPE and isolation garments are recommended (FDA approved N95 masks, face shield, isolation garments/gowns, gloves).
+        • Below the clavicle procedures, use of an N95 mask or surgical mask, eye protection, traditional surgical gowns, and gloves are recommended.
+    Sources: https://www.plasticsurgery.org/for-medical-professionals/covid19-memberresources/resumption-of-elective-surgery and https://www.cdc.gov/coronavirus/2019-ncov/hcp/infection-control-recommendations.html#take_precautions.
+
+
+HEALTH ADVISORY: INTERIM GUIDANCE FOR HEALTCARE PROVIDERS AND FACILITIES IN NEW YORK STATE ON THE OUTBREAK OF 2019 NOVEL CORONAVIRUS (2019-nCoV)
+January 17, 2020
+https://health.ny.gov/press/advisories/docs/2019_novel_coronavirus.pdf
+    ". Currently, Chinese health authorities report no community spread of this virus, and no transmission among healthcare personnel caring for outbreak patients. No additional cases of infection with 2019-nCoV have been identified in China since January 3, 2020. "
+    "Interim Healthcare Infection Prevention and Control Recommendations for Patients Under Investigation for 2019-nCoV"
+    "Such patients should be asked to wear a surgical mask as soon as they are identified and be evaluated in a private room with the door closed, ideally an airborne infection isolation room if available. Healthcare personnel entering the room should use standard precautions, contact precautions, airborne precautions, and use eye protection (e.g., goggles or a face shield). Immediately notify your healthcare facility’s infection control personnel and local health department."
+    "Close contact is defined as—"
+        "a) being within approximately 6 feet (2 meters), or within the room or care area, of a novel coronavirus case for a prolonged period of time while not wearing recommended personal protective equipment or PPE (e.g., gowns, gloves, NIOSH-certified disposable N95 respirator, eye protection); close contact can include caring for, living with, visiting, or sharing a healthcare waiting area or room with a novel coronavirus case."
+        "b) having direct contact with infectious secretions of a novel coronavirus case (e.g., being coughed on) while not wearing recommended personal protective equipment. "
+
+HEALTH ADVISORY: NOVEL CORONAVIRUS DISEASE (COVID-19) Specimen Collection Training for Unlicensed Individuals
+https://coronavirus.health.ny.gov/system/files/documents/2020/05/doh_covid19_advisoryswabtrainingunlicensedindividuals_final-5.15.20.pdf
+(not really that interesting)
+
+Health Advisory: COVID-19 Cases in Nursing Homes and Adult Care Facilities
+March 13, 2020
+https://coronavirus.health.ny.gov/system/files/documents/2020/03/acfguidance.pdf
+    " All HCP and other facility staff shall wear a facemask while within 6 feet of residents. Extended wear of facemasks is allowed; facemasks should be changed when soiled or wet and when HCP go on breaks. Facilities should bundle care and minimize the number of HCP and other staff who enter rooms to reduce the number of personnel requiring facemasks."
+    "Residents must wear facemasks when HCP or other direct care providers enter their rooms, unless such is not tolerable. "
+    "In NHs, all residents on affected units should be placed on droplet and contact precautions, regardless of the presence of symptoms and regardless of COVID-19 status. HCP and other direct care providers should wear gown, gloves, eye protection (goggles or a face shield), and N95 respirators (or equivalent) if the facility has a respiratory program with fit tested staff and N95s. Otherwise, HCP and other direct care providers should wear gown, gloves, eye protection, and facemasks. Facilities may implement extended use of eye protection and facemasks/N95s when moving from resident to resident (i.e. do not change between residents) unless other medical conditions which necessitate droplet precautions are present. However, gloves and gowns must be changed and hand hygiene must be performed."
+
+Health Advisory: Options when Personal Protective Equipment (PPE) is in Short Supply or Not Available
+April 2, 2020
+    (lots of stuff, don't have patience for it all)
+
+
+Measles Review for Providers Responding to New York State’s largest outbreak since measles elimination
+November 28, 2018
+https://www.health.ny.gov/publications/2170/docs/2018-11_presentation_for_providers.pdf
+    "Measles is spread via the airborne route"
+    "Measles can live for up to 2 hours in the airspace where an infected person breathed, coughed or sneezed"
+    "Have patient wear a medical mask"
+    "Healthcare providers wear an N95 mask"
+    "Airborne infection isolation room (negative pressure)"
+    (?) "Alternate: Private room away from susceptible patients with door closed"
+
+
+NEW YORK STATE DEPARTMENT OF HEALTH JOINT MEETING OF THE HEALTH PLANNING COMMITTEE AND PUBLIC HEALTH COMMITTEE
+VIRTUAL PUBLIC MEETING
+AUGUST 12, 2020
+MEETING TRANSCRIPT
+https://www.health.ny.gov/facilities/public_health_and_health_planning_council/docs/2020-08-12_transcript.pdf
+    (not one mention of airborne)
+
+Ebola Virus Disease (EVD) In-Service EMS Training Outline
+https://www.health.ny.gov/diseases/communicable/ebola/docs/ems/revised_bems_ebola_traning_guideline_final.pdf
+    "Ebola is not spread through the air or by water, or in general, by food. "
+
+
+Initial Care of Newborns Born to Pregnant Persons with Suspected or Confirmed COVID-19
+https://coronavirus.health.ny.gov/system/files/documents/2020/11/covid-19_initial_care_of_newborns_born_to_mothers_with_suspected_or_confirmed_covid-19.pdf
+November 17, 2020
+
+
+
+SARS Contact Record
+https://www.health.ny.gov/diseases/communicable/sars/preparedness_guidance/pdf/1h_sars_contact_record.pdf
+(asks if contacts wore N95 during AGP)
+    Appears to be part of 
+    SARS Preparedness Planning Page
+    New York State Department of Health SARS Guidance Document - 12/17/2003
+    https://www.health.ny.gov/diseases/communicable/sars/preparedness_guidance/
+
+NOTICE TO THE HEALTHCARE PROVIDER: PERSON AT RISK FOR 2019 NOVEL CORONAVIRUS AND PRESENTING FOR MEDICAL CARE
+February 11, 2020
+https://coronavirus.health.ny.gov/system/files/documents/2020/03/letter_to_hcp_nysdoh.pdf
+    "Instruct patient to wear a mask covering both the nose and the mouth and apply hand sanitizer to their hands"
+    "Use Standard, Contact, and Airborne Precautions when interacting with the patient including:"
+    "Use a NIOSH-approved and fit-tested N95 mask (or powered air purifying respirator (PAPR))"
+
+Public Health and Health Planning Council 2021-08-26 Revised Proposed Regulation: [about vaccination mandates, discusses how N95s are needed b/c surgicals doesn't stop transmission]
+    https://www.health.ny.gov/facilities/public_health_and_health_planning_council/meetings/2021-08-26/docs/revised_proposed_regulation.pdf
+    "Another alternative to requiring covered entities to mandate vaccination would be to require covered entities to mandate all personnel to wear a fit-tested N95 face covering at all times when in the facility, in order to prevent transmission of the virus. However, acceptable face coverings, which are not fit-tested N95 face coverings have been a long-standing requirement in these covered entities, and, while helpful to reduce transmission it does not prevent transmission and; therefore, masking in addition to vaccination will help reduce the numbers of infections in these settings even further."
+
+Prevention of COVID-19 Transmission by Covered Entities
+Effective date: 8/26/21
+https://regs.health.ny.gov/sites/default/files/pdf/emergency_regulations/Prevention%20of%20COVID-19%20Transmission%20by%20Covered%20Entities.pdf
+    "Another alternative to requiring covered entities to mandate vaccination would be to require covered entities to mandate all personnel to wear a fit-tested N95 face covering at all times when in the facility, in order to prevent transmission of the virus. However, acceptable face coverings, which are not fit-tested N95 face coverings have been a long-standing requirement in these covered entities, and, while helpful to reduce transmission it does not prevent transmission and; therefore, masking in addition to vaccination will help reduce the numbers of infections in these settings even further."
+
+
+Hospital and Nursing Home Personal Protective Equipment (PPE) Requirements
+Effective: 10/28/21
+https://regs.health.ny.gov/sites/default/files/pdf/emergency_regulations/Hospital%20and%20Nursing%20Home%20Personal%20Protective%20Equipment%20%28PPE%29%20Requirements_0.pdf
+    (recommendations on stockpiles)
+
+
+Frequently Asked Questions (FAQ)
+Regarding Title 10, Section 2.59
+“Regulation for Prevention of Influenza Transmission by Healthcare and Residential Facility and Agency Personnel”
+***January 2, 2015***
+https://www.health.ny.gov/diseases/communicable/influenza/seasonal/providers/prevention_of_influenza_transmission/docs/faq_flu_mask_requirements.pdf
+    "A: This regulation requires use of either surgical or procedure masks. Per the U.S. Food and Drug Administration, such masks may be labeled surgical, laser, isolation, dental, or medical procedure facemasks. A face shield is not required. Use of N95 respirators to meet the requirements of this regulation is neither required nor recommended, although N95 respirators should be used when indicated for other reasons."
+
+
+An Update for Healthcare Providers on the Novel Coronavirus
+February 3, 2020
+https://coronavirus.health.ny.gov/system/files/documents/2020/03/2020-02-03_provider_webinar.pdf
+    note to self: Emily Lutterloh, MD, MPH Director, Bureau of Healthcare Associated Infections New York State Department of Health
+    "Patients of concern should be asked to wear a surgical mask as soon as they are identified"
+    "Unknown how long 2019-nCoV remains infectious in the air"
+    "For airborne pathogens, restrict use until enough air changes to remove pathogens"
+    "Often estimate 2 hours"
+    "Standard precautions"
+    "Contact precautions"
+    "Airborne precautions"
+
+Healthcare Provider COVID-19 Weekly Key Updates and Q&A Session
+February 27, 2020
+https://coronavirus.health.ny.gov/system/files/documents/2020/03/2020-02-27_nyc_nys_webinar.pdf
+
+Healthcare Provider COVID-19 Weekly Key Updates and Q&A Session
+March 5, 2020
+https://coronavirus.health.ny.gov/system/files/documents/2020/03/2020-03-05_nyc_nys_webinar.pdf
+
+
+Regulation for Prevention of Influenza Transmission by Healthcare and Residential Facility and Agency Personnel
+https://www.health.ny.gov/diseases/communicable/influenza/seasonal/providers/prevention_of_influenza_transmission/docs/nyshfa_mask_regulation_slides_nh.pdf
+
+
+Guidance for Dental Health Care Settings in Response to COVID-19
+March 22, 2020
+https://coronavirus.health.ny.gov/system/files/documents/2020/03/doh_covid19_dentalsettingsguidance_032220.pdf
+    "Currently, SARS-CoV-2 is thought to primarily spread person-to-person via respiratory droplets through close contact. Dental providers maintain close contact with patients during a dental procedure, placing them at risk of transmission via droplets from dental procedures. "
+    "The CDC recommends that dental healthcare personnel assessing a patient with influenza-like or other respiratory illness should wear disposable surgical facemask, nonsterile gloves, gown, and eye protection (e.g., goggles or face shield) to prevent exposure. Aerosol-generating procedures should be avoided whenever possible, and steps should be taken to avoid or lessen aerosol generation with all procedures. A properly fit-tested N95 respirator or equivalent should be used for aerosol-generating procedures. If not available, then dental providers should use their clinical judgement to determine the best course of action, which might include offering an alternative procedure or providing care in a setting where N95s are available."
+    "Patients, staff, and dental healthcare workers should perform hand hygiene (e.g., hand washing with non-antimicrobial soap and water, alcohol-based hand rub, or antiseptic handwash) after possible contact with respiratory secretions and contaminated objects/materials"
+
+
+
+Preparedness Guidance Document for Severe Acute Respiratory Syndrome
+(master doc, contains several aforementioned docs)
+https://www.health.ny.gov/diseases/communicable/sars/preparedness_guidance/pdf/sars_guidance.pdf
+
+
+Meeting Minutes of the September 29, 2009 EMS for Children
+(extensively corrupted rendering, not sure why)
+(was able to recover by running through google translate, must be rendering bug? saved as "New York State Emergency Medical Services for Children Advisory Committee December 8, 2009 Meeting Minutes.pdf")
+https://www.health.ny.gov/professionals/ems/emsc/advisory_council/meetings/2009-12-08/docs/minutes_4-1.pdf
+
+    "DR. VAN DER JAGT: I just have a question again relating to prevention and the E.M.S. provider. What are the recommendations for use of masks, and what is -- you know, what is the, you know, these E.M.S. providers are probably exposed a lot to this particular virus, or any flu virus, so are there recommendations that you have for them, and maybe Lee would like to talk about that a little bit, too. I don t know -- I just think it s something that needs to be addressed."
+    "MS. BURNS: Actually, the C.D.C. recommends N95s for patient care providers who are treating patients with flu-like symptoms. The Health Department has said that surgical masks are adequate. There s a -- there s a lot of -- of conversation at the local level. Some localities believe that they would just as soon err on the side of being conservative and use N95s. The N95s require fit testing."
+    [...lots of blah about fit testing]
+    "So, there is -- really the answer to your question is the C.D.C. guideline is N95s, state Health Department has said surgical masks. DR. VAN DER JAGT: And how well are they following those regulations? MS. BURNS: Thats a very good question. I -- I think -- honestly, they dont want to be -- they don t want to be exposed, and they don t want to -- certainly dont want to take it home to their family."
+
+
+Other docs, somewhat relevant:
+
+Council of State and Territorial Epidemiologists Position Statement
+Revision of the CSTE case definition for Severe Acute Respiratory Syndrome (SARS) 
+https://www.health.ny.gov/diseases/communicable/sars/preparedness_guidance/pdf/1d_draft_cste_sars_def.pdf
+    mentions 3ft, no n95 or airborne
+
+New York State Department of Health Environmental Control Measures for Airborne Infection Isolation Surge Capacity Planning in Health Care Facilities for Smallpox, SARS or Other Infections Potentially Transmitted via Airborne Droplet Nuclei
+December 18, 2003
+https://www.health.ny.gov/diseases/communicable/sars/preparedness_guidance/pdf/2i_surge_capacity_planning.pdf
+    "Ensure the provision of essential healthcare services while minimizing the risk of transmission to others, especially in acute care facilities where individuals at greatest risk of severe morbidity and mortality receive care."
+    "STEPS ALL FACILITIES SHOULD TAKE IN PREPARING TO RESPOND EFFECTIVELY TO AN AIRBORNE COMMUNICABLE DISEASE CASE OR OUTBREAK"
+        (lots of good stuff, not much about n95s)
+
+
+Update #5: Outbreaks of Severe Acute Respiratory Syndrome (SARS): Information and Recommendations for Health Care Providers
+https://www.health.ny.gov/diseases/communicable/sars/sars_update_05-09-2003.pdf
+
+
+NYS SARS Preparedness Planning Page 3. Non-hospital Quarantine and Isolation
+https://www.health.ny.gov/diseases/communicable/sars/preparedness_guidance/pdf/sec_3_nonhospital_quarantine_isolation.pdf
+
+NEW YORK STATE DEPARTMENT OF HEALTH SEVERE ACUTE RESPIRATORY SYNDROME (SARS) MODEL VOLUNTARY HOME ISOLATION AND QUARANTINE AGREEMENTS
+https://www.health.ny.gov/diseases/communicable/sars/preparedness_guidance/pdf/3a_model_home_isolation_agreement.pdf
+    (lots about fomites, no n95s)
+
+NYSDOH Model Voluntary SARS Quarantine Agreement
+https://www.health.ny.gov/diseases/communicable/sars/preparedness_guidance/pdf/3a_model_sars_quarantine.pdf
+    (fomites, no n95s)
+
+Home Isolation for Severe Acute Respiratory Syndrome (SARS) Patients
+https://www.health.ny.gov/diseases/communicable/sars/preparedness_guidance/pdf/3d_home_isolation_patients_assement_checklist.pdf
+    (some discussion about ventilation)
+
+
+Information Sheet for SARS Patients
+https://www.health.ny.gov/diseases/communicable/sars/preparedness_guidance/pdf/3g_information_sheet_forsarspatients.pdf
+    "In addition, it is possible that the SARS virus might spread more broadly through the air (airborne spread) or by other ways that are not now known."
+    "If you have SARS, you should:"
+        "Cover your mouth and nose with tissue when coughing or sneezing. If you have a surgical mask, wear it during close contact with other people. A mask can reduce the number of droplets coughed into the air."
+
+    (some other bits about masks and fomites)
+
+Information Sheet for Close Contacts of SARS Patients
+https://www.health.ny.gov/diseases/communicable/sars/preparedness_guidance/pdf/3h_info_sheet_close_contacts_sars_patients.pdf
+    "In addition, it is possible that the SARS virus might spread more broadly through the air (airborne spread) or by other ways that are not known."
+
+SARS Preparedness Planning 4. Laboratory Diagnosis of SARS
+https://www.health.ny.gov/diseases/communicable/sars/preparedness_guidance/pdf/section_4_laboratory.pdf
+
+
+
+SARS Preparedness Planning Page 5. Communication
+https://www.health.ny.gov/diseases/communicable/sars/preparedness_guidance/pdf/section_5_communication.pdf
+    "Most exposures to SARS occur in healthcare facilities and households. Community transmission outside of these settings have been reported, but these occurred rarely, under special circumstances, and with few exceptions, after close contact with ill persons. Persons at risk in healthcare facilities include healthcare workers, patients, and visitors. In households, the greatest risk is to family members of SARS patients."
+    (nothing about airborne)
+
+
+PUBLIC HEALTH GUIDANCE FOR COMMUNITY-LEVEL PREPAREDNESS AND RESPONSE TO SEVERE ACUTE RESPIRATORY SYNDROME (SARS)
+SUPPLEMENT G: COMMUNICATION
+https://www.health.ny.gov/diseases/communicable/sars/preparedness_guidance/pdf/5a_communication.pdf
+
+
+Factors Associated with Nursing Home Infections and Fatalities in New York State During the COVID-19 Global Health Crisis"
+https://health.ny.gov/press/releases/2020/docs/nh_factors_report.pdf
+    NO MENTION OF AIRBORNE OR ventilation
+
+
+New York State Department of Health Bureau of Immunization
+Measles Outbreak Control Guidelines November 2019
+https://www.health.ny.gov/prevention/immunization/providers/docs/measles_outbreak_control_guidelines.pdf
+
+
+Guidance for Local Health Departments on Ebola Virus Environmental Cleaning and Disinfection in Non-healthcare and Non-laboratory Settings
+https://www.health.ny.gov/diseases/communicable/ebola/docs/lhd_cleanup_of_ebola_in_non-health_care_settings.pdf
+    (blah blah ebola no air blah blah, I'm getting tired)
+
+
+Prevention of Influenza Transmission by Healthcare and Residential Facility and Agency Personnel
+Effective Date: 7/31/13
+https://regs.health.ny.gov/sites/default/files/pdf/recently_adopted_regulations/2013-07-31_prevention_of_influenza_transmission_by_healthcare_and_residential_facility_and_agency_personnel.pdf
+
+EMS PROVIDER GUIDANCE FOR SUSPECTED MEASLES PATIENTS
+https://www.health.ny.gov/prevention/immunization/providers/measles/docs/guidance_for_suspected_measles_patients.pdf
+    "Measles can be severe and is highly contagious. The virus is transmitted by direct contact with infectious droplets or by airborne spread when an infected person breathes, coughs, or sneezes."
