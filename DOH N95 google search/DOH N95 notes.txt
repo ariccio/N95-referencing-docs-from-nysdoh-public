@@ -8,13 +8,24 @@ I'm doing some OSINT, and seeing some interesting things:
 
 
 changing guidance for EMS:
-    Re: COVID-19 Response to Respiratory Emergencies (V1.0) 
-    UPDATED 03.19.20
-    No. 20-05
-    Date: March 19, 2020
+
+    No. 20 - 02
+    Date: January, 2020
+    Re: 2019-nCoV
+    “Wuhan Coronavirus” (v2.0)
     POLICY STATEMENT
-    "PPE (gloves, gowns, N95 respirator, and eye protection) MUST be donned prior to any procedure with potential for aerosolization."
-    https://www.health.ny.gov/professionals/ems/pdf/20-03_response_to_respiratory_emergencies.pdf
+    VERSION 2.0 UPDATED 01.30.2020
+    https://www.wyomingco.net/DocumentCenter/View/3450/20-02-NYS-DOH-EMS-Policy-Statement-Wuhan-Coronavirus-V20---012920?bidId=
+        The following PPE is recommended for use by EMS when treating a patient with suspected 2019-nCoV infection:
+            • Standard Precautions;
+            • Contact Precautions, including gown and gloves;
+            • Eye protection (goggles or face shield);
+            • Disposable NIOSH-approved, fit-tested N95 respirator;
+                o EMS agencies may usePAPRs with full hood and high efficiency particulate air (HEPA)
+                filter for Airborne Precautions for employees that cannot safely fit test on N95 respirators
+                due to facial hair, facial structure, etc.
+            • Provide a surgical mask (N95 is not recommended) for all suspected 2019-nCoV patients;
+                o Patients who are intubated should be ventilated with a bag-valve device or ven
 
 
     Re: COVID-19 EMS Practitioner Guidance (V3.0)
@@ -27,6 +38,14 @@ changing guidance for EMS:
     [...]
         c) NIOSH-approved, fit tested respiratory protection (N95 or higher-level respirator);
             i) EMS agencies may usePAPRs with full hood and high efficiency particulate air (HEPA) filter for Airborne Precautions for employees that cannot safely fit test on N95 respirators due to facial hair, facial structure, etc"
+
+    Re: COVID-19 Response to Respiratory Emergencies (V1.0) 
+    UPDATED 03.19.20
+    No. 20-05
+    Date: March 19, 2020
+    https://www.health.ny.gov/professionals/ems/pdf/20-03_response_to_respiratory_emergencies.pdf
+    POLICY STATEMENT
+        "PPE (gloves, gowns, N95 respirator, and eye protection) MUST be donned prior to any procedure with potential for aerosolization."
 
 
 
